@@ -1,0 +1,13 @@
+STARK ARKITEKTER – GITHUB PAGES
+
+Packa upp ZIP-filen. Ladda upp allt innehåll till repositoryts rot. index.html ska ligga direkt i roten, bredvid assets, projekt, styles.css och script.js.
+
+Välj Settings > Pages > Deploy from a branch > main > / (root).
+
+Alla bilder, typsnitt och interna sidlänkar är lokala och använder relativa sökvägar. Ingen installation krävs.
+
+Före slutlig lansering på annan domän: uppdatera canonical-länkar, schema.org-adress, sitemap.xml och robots.txt till den slutliga domänen.
+
+Kontaktknappar öppnar e-post, telefon eller karta. Inget kontaktformulär kräver en server.
+
+Material och företagsinformation kommer från starkarkitekter.se, kontrollerat 30 september 2026. Detta är en fristående designversion.
